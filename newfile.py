@@ -3,3 +3,8 @@
 
 print("hello world")
 
+# this will be the new part of the code 
+
+greet = "namaste"
+
+print(greet)
